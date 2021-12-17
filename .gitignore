@@ -1,3 +1,6 @@
+utils/simulation_iv4XR
+utils/iv4xr.obj
+
 **/*.pickle
 **/__pycache__
 **/*.egg-info
