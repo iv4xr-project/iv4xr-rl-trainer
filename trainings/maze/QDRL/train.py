@@ -1,3 +1,14 @@
+# **************************************************************************** #
+#                                   Copyright                                  #
+# **************************************************************************** #
+#                                                                              #
+# Copyright © 2021-2021 Thales SIX GTS FRANCE                                  #
+#                                                                              #
+# **************************************************************************** #
+#                                   Copyright                                  #
+# **************************************************************************** #
+
+
 from therenv.se_star.intrusion.utils import make_env as make_intrusion_env
 from therlib.criterion.qd_rl import QDRL as QDRLCriterion
 from therlib.criterion.util import soft_update

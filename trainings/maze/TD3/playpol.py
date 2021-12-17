@@ -1,3 +1,14 @@
+# **************************************************************************** #
+#                                   Copyright                                  #
+# **************************************************************************** #
+#                                                                              #
+# Copyright © 2021-2021 Thales SIX GTS FRANCE                                  #
+#                                                                              #
+# **************************************************************************** #
+#                                   Copyright                                  #
+# **************************************************************************** #
+
+
 from therutils.model.pendulum.deterministic_policy_gradient import LowDPolicyNetwork as PolicyNetwork
 from therenv.se_star.intrusion.intrusion import Renderer
 from therenv.se_star.intrusion.utils import make_env as make_intrusion_env
