@@ -38,6 +38,8 @@ powerplant intrusion simulation that shares the same interfaces and logic.
 ## Approach and results
 
 The approach and results are detailed in this project's Wiki:
+- https://github.com/iv4xr-project/iv4xr-rl-trainer/wiki/Approach-and-Results---Goal-Solving-FTA
+- https://github.com/iv4xr-project/iv4xr-rl-trainer/wiki/Approach-and-Results---Behavioural-Coverage-FTA
 
 ## References
 
